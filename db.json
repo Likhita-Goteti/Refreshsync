@@ -10,7 +10,8 @@
         {"id": 7, "Order_ID": 536357, "StockCode": "85123A", "Product": "ASSORTED COLOUR BIRD ORNAMENT", "Category": "Props", "UnitPrice": 425},
         {"id": 8, "Order_ID": 536368, "StockCode": "84409E", "Product": "FELTCRAFT PRINCESS CHARLOTTE DOLL", "Category": "Props", "UnitPrice": 185},
         {"id": 9, "Order_ID": 536362, "StockCode": "85132g", "Product": "BOX OF 6 ASSORTED COLOUR TEASPOONS", "Category": "Utensils", "UnitPrice": 185},
-        {"id": 10, "Order_ID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 210}
+        {"id": 10, "Order_ID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 210},
+        {"id": 11, "Order_ID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 210}
     ],
     "PO2": [
         {"OrderID": 636365, "StockCode": "95123A", "Product": "DOORMAT NEW ENGLAND", "Category": "Textile", "UnitPrice": 105},
