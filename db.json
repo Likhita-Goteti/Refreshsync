@@ -11,7 +11,6 @@
         {"id": 8, "Order_ID": 536368, "StockCode": "84409E", "Product": "FELTCRAFT PRINCESS CHARLOTTE DOLL", "Category": "Props", "UnitPrice": 185},
         {"id": 9, "Order_ID": 536362, "StockCode": "85132g", "Product": "BOX OF 6 ASSORTED COLOUR TEASPOONS", "Category": "Utensils", "UnitPrice": 185},
         {"id": 10, "Order_ID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 210},
-        {"id": 11, "Order_ID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 210},
         {"id": 12, "Order_ID": 536361, "StockCode": "851433F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 500}
     ],
     "PO2": [
